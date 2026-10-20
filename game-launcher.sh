@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Watermark: Living_Sin (intricos777-dot) + AI agents (Hermes, Lia, opencode) - collaborative work
 # game-launcher.sh — Build and launch any non-steam game
 # Usage: ./game-launcher.sh <game-name>
 
